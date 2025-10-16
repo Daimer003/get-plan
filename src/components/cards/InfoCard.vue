@@ -1,6 +1,7 @@
 <template>
   <div
-    class="relative w-full max-w-[380px] rounded-3xl shadow-md p-8 transition-transform duration-300 hover:-translate-y-1 hover:shadow-lg"
+    class="relative w-full max-w-[380px] rounded-3xl shadow-md p-8 transition-transform duration-300 hover:-translate-y-1 hover:shadow-lg 
+    "
     :class="customClass"
   >
     <!-- Icono -->
@@ -25,8 +26,8 @@
     </div>
 
     <!-- Texto -->
-    <h3 class="font-semibold text-lg mb-3">{{ title }}</h3>
-    <p class="text-sm leading-relaxed opacity-80">{{ text }}</p>
+    <h3 class="font-semibold text-start unbounded text-lg mb-3">{{ title }}</h3>
+    <p class="text-[17px] text-start leading-relaxed poppins opacity-70">{{ text }}</p>
   </div>
 </template>
 

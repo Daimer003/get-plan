@@ -1,15 +1,15 @@
 <template>
-  <section class="w-full flex justify-center bg-[#faf9fb] text-[#0f0f0f] py-20">
+  <section class="w-full flex justify-center bg-[#f1f1f6] text-[#0f0f0f] py-20">
     <div class="w-full max-w-[1439px] px-6 text-center">
       <!-- Texto superior -->
-      <p class="text-gray-500 text-sm md:text-base mb-4">
+      <p class="text-[#0B0B1CB2] text-sm md:text-[17px] max-w-[900px] mb-3 poppins font-regular m-auto uppercase">
         Hoy, las organizaciones que lideran el cambio son las que convierten la información en acción,
-        la <span class="font-semibold">inteligencia en estrategia</span> y la colaboración en
-        <span class="font-semibold">resultados reales.</span>
+        la <span class="poppins font-medium ">inteligencia en estrategia</span> y la colaboración en
+        <span class="poppins font-medium ">resultados reales.</span>
       </p>
 
       <h2
-        class="text-4xl md:text-6xl font-bold text-[#7b1c5b] leading-tight mb-16"
+        class="text-4xl md:text-6xl max-w-[900px] font-semibold font-[-2px] text-[#A00B64]  leading-[60px] mb-16 m-auto poppins"
       >
         El futuro no se planea como antes, ven y...
       </h2>

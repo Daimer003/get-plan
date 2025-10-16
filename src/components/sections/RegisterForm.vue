@@ -5,7 +5,7 @@
     >
       <div class="bg-white w-full max-w-[1439px] p-10 rounded-2xl shadow-sm border border-gray-100">
         <!-- Título -->
-        <h2 class="text-2xl font-extrabold text-gray-900 mb-8 text-center">
+        <h2 class="text-2xl font-extrabold text-gray-900 mb-8 text-start unbounded">
           Inscríbete Grátis Por Tiempo Limitado
         </h2>
 
@@ -56,7 +56,7 @@
           <div class="pt-2">
             <button
               type="submit"
-              class="w-full md:w-auto bg-[#9b2973] hover:bg-[#7d1f5d] text-white font-semibold px-8 py-3 rounded-md transition-all"
+              class="w-full md:w-auto bg-[#A00B64] hover:bg-[#7d1f5d] text-white font-semibold px-8 py-3 rounded-md transition-all"
             >
               Registrarme al evento
             </button>
