@@ -1,6 +1,6 @@
 <template>
   <section
-    class="relative w-full flex justify-center bg-white text-gray-900 py-20 overflow-hidden"
+    class="relative w-full flex justify-center bg-white text-gray-900 py-20 overflow-hidden z-0"
   >
     <!-- Fondo con mapa -->
     <div
