@@ -9,13 +9,7 @@ import RegisterForm from './components/sections/RegisterForm.vue';
 </script>
 
 <template>
-  <Layout>
-    <Header />
-    <AboutSection />
-    <FutureSection />
-    <OrganizerSection />
-    <RegisterForm />
-  </Layout>
+    <router-view />
 </template>
 
 <style scoped></style>
