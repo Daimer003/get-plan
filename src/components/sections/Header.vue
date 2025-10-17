@@ -24,7 +24,7 @@ const showRegistro = ref(false)
 
     <!-- Contenido principal -->
     <div
-      class="relative z-10 max-w-[1439px] w-full grid grid-cols-1 md:grid-cols-2 gap-10 items-center mt-[60px] mb-[191px]"
+      class="relative z-10 max-w-[1439px] w-full grid grid-cols-1 md:grid-cols-2 gap-10 items-center mt-[60px] mb-[270px] md:mb-[191px]"
     >
       <!-- Texto principal -->
       <div>
