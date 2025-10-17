@@ -10,13 +10,21 @@ import RegisterForm from '../components/sections/RegisterForm.vue'
 const loading = ref(true)
 
 onMounted(() => {
-  // Se oculta el spinner solo cuando TODO el contenido está cargado
-  if (document.readyState === 'complete') {
-    loading.value = false
-  } else {
-    window.addEventListener('load', () => {
+  const MIN_LOAD_TIME = 1500 // tiempo mínimo del spinner (en ms)
+  const startTime = Date.now()
+
+  const hideLoader = () => {
+    const elapsed = Date.now() - startTime
+    const remaining = Math.max(MIN_LOAD_TIME - elapsed, 0)
+    setTimeout(() => {
       loading.value = false
-    })
+    }, remaining)
+  }
+
+  if (document.readyState === 'complete') {
+    hideLoader()
+  } else {
+    window.addEventListener('load', hideLoader)
   }
 })
 </script>
