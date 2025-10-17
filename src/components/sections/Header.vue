@@ -29,7 +29,7 @@ const showRegistro = ref(false)
       <!-- Texto principal -->
       <div>
         <div class="space-y-[16px]">
-          <p class="text-xl tracking-[-5%] text-white poppins">
+          <p class=" text-md md:text-xl tracking-[-5%] text-white poppins">
             El entorno va muy rápido, y debes llevar tu
           </p>
 
@@ -40,7 +40,7 @@ const showRegistro = ref(false)
             <span class="block text-white">al mejor futuro</span>
           </h1>
 
-          <p class="text-xl mt-4 text-white/90 tracking-[-5%] poppins">
+          <p class="text-md md:text-xl  mt-4 text-white/90 tracking-[-5%] poppins">
             Ven y conoce cómo hacerlo con IA
           </p>
 

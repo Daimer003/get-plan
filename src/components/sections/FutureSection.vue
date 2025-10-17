@@ -9,7 +9,7 @@
       </p>
 
       <h2
-        class="text-4xl md:text-6xl max-w-[900px] font-semibold font-[-2px] text-[#A00B64] leading-[40px]  md:leading-[60px] mb-16 m-auto poppins">
+        class="text-3xl md:text-6xl max-w-[900px] font-semibold font-[-2px] text-[#A00B64] leading-[40px]  md:leading-[60px] mb-16 m-auto poppins">
         El futuro no se planea como antes, ven y...
       </h2>
 
