@@ -101,7 +101,7 @@ const showRegistro = ref(false)
             <h2 class="text-2xl font-bold">Formulario de registro</h2>
             <button
               @click="showRegistro = false"
-              class="text-gray-500 hover:text-gray-700 transition"
+              class="text-2xl text-gray-500 hover:text-gray-700 transition"
             >
               ✕
             </button>
