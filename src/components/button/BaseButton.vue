@@ -10,7 +10,7 @@ interface Props {
 const props = defineProps<Props>()
 
 const baseClass =
-  'inline-flex items-center justify-center gap-3 rounded-full font-poppins text-lg transition-all duration-300 focus:outline-none'
+  'inline-flex items-center justify-center gap-3 rounded-full font-poppins text-lg transition-all duration-300 focus:outline-none z-0'
 
 const variantClass = computed(() => {
   if (props.variant === 'outline') {

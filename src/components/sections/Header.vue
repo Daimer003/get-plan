@@ -95,7 +95,7 @@ const showRegistro = ref(false)
         @click.self="showRegistro = false"
       >
         <div
-          class="w-full sm:w-[450px] bg-white text-gray-900 h-full p-6 shadow-xl overflow-y-auto rounded-l-2xl"
+          class="w-full sm:w-[450px] bg-white text-gray-900 h-full py-6 px-5 shadow-xl overflow-y-auto rounded-l-2xl"
         >
           <div class="flex justify-between items-center mb-4">
             <h2 class="text-2xl font-bold">Formulario de registro</h2>

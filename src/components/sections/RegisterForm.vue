@@ -2,7 +2,7 @@
   <section class="w-full flex justify-center bg-[#f9fafb] py-20">
     <div class="w-full px-6 flex justify-center">
       <div
-        class="bg-white w-full max-w-[1439px] p-10 rounded-2xl shadow-sm border border-gray-100"
+        class="bg-white w-full max-w-[1439px] p-5 rounded-2xl shadow-sm border border-gray-100"
       >
         <h2 class="text-2xl font-extrabold text-gray-900 mb-8 text-start unbounded">
           Inscríbete Gratis Por Tiempo Limitado
