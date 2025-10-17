@@ -26,7 +26,7 @@ onMounted(() => {
     <!-- Spinner mientras carga -->
     <div
       v-if="loading"
-      class="fixed inset-0 flex items-center justify-center bg-[#090c1b] z-[9999]"
+      class="fixed inset-0 flex w-full h-screen items-center justify-center bg-[#0B0B1C] z-[9999]"
     >
       <div class="animate-spin rounded-full h-14 w-14 border-t-4 border-b-4 border-[#A00B64]"></div>
     </div>
