@@ -3,7 +3,7 @@
     class="fixed inset-0 -z-10 overflow-hidden -top-[1000px] 2xl:-top-[80%] -left-[1300px] md:-left-[50%] 2xl:-left-[0%]"
   >
     <img
-      src="@/assets/svgs/gradient-get-plan.svg"
+      src="/assets/svgs/gradient-get-plan.svg"
       alt="Animated gradient background"
       class="absolute w-[2200px]
              max-w-none object-contain animate-gradientMove pointer-events-none select-none"

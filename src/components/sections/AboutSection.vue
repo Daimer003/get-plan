@@ -7,7 +7,7 @@ import Earth from '../animations/Earth.vue';
   <section class="relative w-full flex justify-center bg-white text-gray-900 py-30 2xl:py-40  overflow-hidden z-0 ">
     <!-- Fondo con mapa -->
     <div
-      class="absolute w-full  inset-0 bg-[url('/bg-map.svg')] bg-no-repeat bg-left left-0 2xl:left-80  pointer-events-none mt-[94px]">
+      class="absolute w-full  inset-0  bg-left left-0 2xl:left-80  pointer-events-none mt-[94px]">
       <Earth />
     </div>
 

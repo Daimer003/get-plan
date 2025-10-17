@@ -1,7 +1,7 @@
 <template>
   <div class="relative w-[600px] xl:w-[713px] h-[600px] xl:h-[713px]">
     <img
-      src="@/assets/images/earth.png"
+      src="/assets/images/earth.png"
       alt="planeta animado"
       class="absolute  w-full h-full object-contain animate-rotate-slow "
     />

@@ -1,6 +1,6 @@
 <template>
   <section class="w-full flex justify-center bg-[#0d0b1c] text-white py-20 relative overflow-hidden
-     bg-[url('@/assets/images/team.webp')]
+     bg-[url('/assets/images/team.webp')]
        bg-cover    bg-no-repeat bg-center
   ">
     <!-- Patrón diagonal sutil -->

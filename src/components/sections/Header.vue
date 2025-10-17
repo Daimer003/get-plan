@@ -7,7 +7,7 @@ import Navbar from '../shared/Navbar.vue';
 
 <template>
   <section class="flex w-full flex-col justify-center items-center relative text-white  p-3 md:p-5 z-10">
-    <div class="absolute inset-0 bg-[url('@/assets/images/bg-grid-get-plan.png')]
+    <div class="absolute inset-0 bg-[url('/assets/images/bg-grid-get-plan.png')]
            bg-no-repeat bg-center bg-[length:100%_auto] 2xl:bg-[length:90%_auto]
            opacity-10 pointer-events-none z-0">
     </div>

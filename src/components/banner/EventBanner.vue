@@ -17,10 +17,10 @@ defineProps<Props>()
       class="w-full h-full relative bg-[#0B0B1C] rounded-2xl text-white py-5 px-8 md:px-12 flex flex-col md:flex-row items-center overflow-hidden  justify-between gap-10 z-12">
       <!-- Imagen de fondo con círculos -->
 
-      <img src="@/assets/images/path.webp" alt="Decoración de fondo"
+      <img src="/assets/images/path.webp" alt="Decoración de fondo"
         class="absolute bottom-0 left-60  w-[172px] h-auto object-cover  pointer-events-none z-10" />
 
-      <img src="@/assets/images/path.webp" alt="Decoración de fondo"
+      <img src="/assets/images/path.webp" alt="Decoración de fondo"
         class="absolute top-0 left-0 xl:left-120 rotate-180 inset-12 w-[172px] h-auto object-cover  pointer-events-none z-10" />
 
 
