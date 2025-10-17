@@ -1,6 +1,6 @@
 <template>
   <div
-    class="fixed inset-0 -z-10 overflow-hidden -top-[1000px] 2xl:-top-[80%] -left-[1300px] md:-left-[50%] 2xl:-left-[0%]"
+    class="fixed inset-0 -z-10 overflow-hidden -top-[1000px] 2xl:-top-[80%] -left-[1300px] md:-left-[50%] xl:-left-[30%] 2xl:-left-[10%]"
   >
     <img
       src="/assets/svgs/gradient-get-plan.svg"

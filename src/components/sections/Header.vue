@@ -11,7 +11,7 @@ const showRegistro = ref(false)
 
 <template>
   <section
-    class="flex w-full flex-col justify-center items-center relative text-white p-3 md:p-5 z-10"
+    class="flex w-full flex-col justify-center items-center relative text-white px-4 xl:px-20 z-10"
   >
     <!-- Fondo -->
     <div
