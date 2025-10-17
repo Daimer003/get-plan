@@ -97,7 +97,7 @@ const handleSubmit = async () => {
       .maybeSingle()
 
 
-    if (errorBuscar.code == "PGRST116") {
+    if (errorBuscar == null || errorBuscar.code == "PGRST116") {
       mensaje.value = 'Este usuario ya estás registrado ✅'
       mensajeClase.value = 'text-blue-600'
       loading.value = false
