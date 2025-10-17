@@ -1,5 +1,5 @@
 <template>
-  <section class="w-full flex justify-center bg-[#f1f1f6] text-[#0f0f0f] py-20">
+  <section class="w-full flex justify-center bg-[#f1f1f6] text-[#0f0f0f] py-20" id="Qué-aprenderás">
     <div class="w-full max-w-[1439px] px-6 text-center">
       <!-- Texto superior -->
       <p class="text-[#0B0B1CB2] text-sm md:text-[17px] max-w-[900px] mb-3 poppins font-regular m-auto uppercase">
