@@ -59,7 +59,7 @@ const showRegistro = ref(false)
             @click="showRegistro = true"
             variant="solid"
           />
-          <BaseButton label="Qué aprenderás" href="#detalles" variant="outline" />
+          <BaseButton label="Qué aprenderás" href="#Qué-aprenderás" variant="outline" />
         </div>
       </div>
 
