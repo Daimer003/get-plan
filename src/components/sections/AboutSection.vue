@@ -33,7 +33,7 @@ import Earth from '../animations/Earth.vue';
           <span class="text-[#8C8CA1] font-regular poppins tracking-[-3px]">
             este es un evento para Líderes que quieren
           </span>
-          hacer que los cambios ocurran.
+          transformar sus organizaciones.
         </h2>
 
         <div class="grid grid-cols-1 sm:grid-cols-3 gap-8">

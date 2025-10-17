@@ -36,7 +36,7 @@ const showRegistro = ref(false)
           <h1
             class="text-5xl md:text-[56px] leading-[56px] tracking-[-5%] poppins font-medium"
           >
-            Estrategia
+            Estrateg<span class="font-italic">i</span>a  
             <span class="block text-white">al mejor futuro</span>
           </h1>
 

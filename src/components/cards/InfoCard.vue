@@ -1,5 +1,5 @@
 <template>
-  <div class="relative w-full max-w-[380px] rounded-3xl shadow-md p-8 transition-transform duration-300 hover:-translate-y-1 hover:shadow-lg 
+  <div class="relative w-full max-w-[413px] rounded-3xl shadow-md py-[49px] px-[69px] transition-transform duration-300 hover:-translate-y-1 hover:shadow-lg 
     " :class="customClass">
     <!-- Icono -->
     <div class="w-10 h-10 flex items-center justify-center rounded-md mb-6" :class="iconBg">

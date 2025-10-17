@@ -87,6 +87,13 @@ body {
 }
 
 @font-face {
+  font-family: 'font-italic';
+  src: url('../../public/assets/fonts/Poppins/Poppins-MediumItalic.ttf') format('truetype');
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
   font-family: 'Poppins';
   src: url('../../public/assets/fonts/Poppins/Poppins-SemiBold.ttf') format('truetype');
   font-weight: 600;
@@ -127,6 +134,11 @@ body {
 .poppins{
     font-family: 'Poppins', sans-serif;
 }
+
+.font-italic{
+    font-family: 'font-italic', sans-serif;
+}
+
 
 
 .unbounded{
